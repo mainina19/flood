@@ -1,2 +1,2 @@
 # flood
-Download all files than run game.java
+Download all files than run Game.java
